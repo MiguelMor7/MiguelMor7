@@ -1,4 +1,4 @@
-![MasterHead](https://images.creativemarket.com/0.1.0/ps/7599381/600/400/m2/fpnw/wm0/programming-line-art-banner-03-.jpg?1579167779&s=d36738260b380bf225bc9b33c06d59de&fmt=webp)
+![MasterHead](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 <h1 align="center">Hi 👋, I'm Miguel A. Moreira</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
