@@ -1,4 +1,4 @@
-![MasterHead](https://semidotinfotech.com/web/images/frontend_banner.jpg)
+![MasterHead](hhttps://www.yazilimkoyu.org/wp-content/uploads/2021/07/h68x0up43hmknl5tjcww-600x315.jpg)
 <h1 align="center">Hi 👋, I'm Miguel A. Moreira</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
